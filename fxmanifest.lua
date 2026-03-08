@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'Custom QBCore Car Check and vMenu'
-author 'Gemini'
+author 'helgi'
 version '1.0.0'
 
 shared_script 'config.lua'
